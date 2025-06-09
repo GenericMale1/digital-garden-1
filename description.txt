@@ -1,5 +1,3 @@
-The Digital Garden
-
 The digital garden is inpired by an example done in class to do with objects and reusability. I wanted to evoke the feeling of an imagined garden in a future where we no longer have gardens , and the only things we do have are abstract ideas of what flowers in a garden/field shhould look like and operate. This is in no way meant to reflect reality - which is what i'd like to experiment with.
 We've all got preconcieved ideas of what gardens should do and be.
 But when we dont look at something for a long long time, the idea becomes greater than the object itself.
